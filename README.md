@@ -1,6 +1,6 @@
 # Менеджер Паролей
 
-Простая и надежная программа на C# для хранения паролей. Главная особенность — ваши данные зашифрованы так, что их не прочитает никто, кроме вас.
+Простая и надёжная программа на C# для хранения паролей. Главная особенность — ваши данные зашифрованы так, что их не прочитает никто, кроме вас.
 
 ### Что умеет программа:
 
@@ -40,6 +40,6 @@ A simple and reliable C# program for storing passwords. The main feature — you
 ### How to use:
 
 1. Run the program.
-2. Create and confirm a MASTER PASSWORD (do not forget it, it cannot be recovered!).
+2. Create and confirm a MASTER-PASSWORD (do not forget it, it cannot be recovered!).
 3. Use the menu to manage your passwords.
 4. Edit and delete the password file only through the program.
